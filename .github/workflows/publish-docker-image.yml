@@ -18,7 +18,7 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v2
         with:
-#           context: .
-          file: sample-packages\docker\Dockerfile
+          context: .
+          file: ../../sample-packages/docker/Dockerfile
           push: true
           tags: ghcr.io/zohair-amravatiwala/sample-pkg:latest
