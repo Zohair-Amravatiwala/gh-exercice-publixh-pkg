@@ -1,4 +1,4 @@
-![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=my-workflow)
+![example branch parameter.](https://github.com/Zohair-Amravatiwala/gh-exercice-publixh-pkg/actions/workflows/grading.yml/badge.svg?branch=main)
 
 # Welcome to the exercise on publishing packages!
 
