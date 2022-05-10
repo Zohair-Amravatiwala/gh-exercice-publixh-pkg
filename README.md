@@ -1,4 +1,5 @@
 ![example branch parameter.](https://github.com/Zohair-Amravatiwala/gh-exercice-publixh-pkg/actions/workflows/grading.yml/badge.svg?branch=main)
+[![Publish Docker image](https://github.com/Zohair-Amravatiwala/gh-exercice-publixh-pkg/actions/workflows/publish-docker-image.yml/badge.svg?branch=main&event=push)](https://github.com/Zohair-Amravatiwala/gh-exercice-publixh-pkg/actions/workflows/publish-docker-image.yml)
 
 # Welcome to the exercise on publishing packages!
 
